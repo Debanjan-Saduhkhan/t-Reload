@@ -1,6 +1,6 @@
 # T-Reload Research Paper Implementation
 
-This repository contains a complete implementation of the **t-reload** method described in the research paper. The implementation follows best practices for reproducibility and includes comprehensive documentation, testing, and evaluation tools.
+This repository contains a complete implementation of the **t-RELOAD: A REinforcement Learning-based REcommendation for Outcome-driven Application** method described in the research paper. The implementation follows best practices for reproducibility and includes comprehensive documentation, testing, and evaluation tools.
 
 ## 📋 Table of Contents
 
