@@ -36,7 +36,7 @@ this implementation covers:
 - **Authors**: Debanjan Sadhukhan, Sachin Kumar, Swarit Sankule, and Tridib Mukherjee
 - **Venue**: Proceedings of The Third International Conference on Artificial Intelligence and Machine Learning Systems (AIMLSystems 2023)
 - **Year**: 2023
-- **DOI**: https://doi.org/10.1145/nnnnnnn.nnnnnnn
+- **DOI**: [https://doi.org/10.1145/t-RELOAD](https://dl.acm.org/doi/abs/10.1145/3639856.3639884)
 
 ### Paper Abstract
 
