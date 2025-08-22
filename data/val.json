@@ -1,0 +1,10 @@
+[
+  {
+    "text": "Validation sample text.",
+    "label": 1
+  },
+  {
+    "text": "Another validation example.",
+    "label": 0
+  }
+]

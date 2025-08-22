@@ -1,0 +1,33 @@
+{
+  "experiment_name": "t-reload_experiment",
+  "seed": 42,
+  "device": "cuda",
+  "num_workers": 4,
+  "model": {
+    "model_type": "t-reload",
+    "hidden_size": 768,
+    "num_layers": 12,
+    "num_heads": 12,
+    "dropout": 0.1,
+    "activation": "gelu"
+  },
+  "training": {
+    "batch_size": 32,
+    "learning_rate": 0.0001,
+    "num_epochs": 100,
+    "warmup_steps": 1000,
+    "weight_decay": 0.01,
+    "gradient_clip": 1.0,
+    "save_steps": 1000,
+    "eval_steps": 500,
+    "logging_steps": 100
+  },
+  "data": {
+    "data_dir": "data",
+    "train_file": "train.json",
+    "val_file": "val.json",
+    "test_file": "test.json",
+    "max_length": 512,
+    "preprocessing": "standard"
+  }
+}
